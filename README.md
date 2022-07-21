@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello👋, i´m Juan Pablo Menichetti 
+
+- 🌱 I’m currently learning React Native
+
+- 📫 How to reach me: jpmenichetti13@gmail.com
+
+[![trophy](https://github-profile-trophy.vercel.app/JuanMeniryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **JuanMeni/JuanMeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
