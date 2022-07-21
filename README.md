@@ -6,7 +6,7 @@
 - 📫 How to reach me: jpmenichetti13@gmail.com
 
 
-![](https://komarev.com/ghpvc/?username=JuanMeni&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=JuanMeni&color=blueviolet&style=for-the-badge)
 
 
 ### Lenguages and Tools
