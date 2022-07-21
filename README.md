@@ -4,11 +4,10 @@
 
 - 📫 How to reach me: jpmenichetti13@gmail.com
 
-Lenguages and Tools
+### Lenguages and Tools
 
-<p align="left" dir="auto">  
-<a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" hspace="5" style="max-width: 100%;"></a>
-</p>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JuanMeni&theme=onedark&show_icons=true&count_private=true)
