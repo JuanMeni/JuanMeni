@@ -4,7 +4,9 @@
 
 - 📫 How to reach me: jpmenichetti13@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/JuanMeni=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+![Github stats](https://github-readme-stats.vercel.app/api?username=JuanMeni&theme=highcontrast&show_icons=true&count_private=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JuanMeni)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **JuanMeni/JuanMeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
