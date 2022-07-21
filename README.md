@@ -1,8 +1,11 @@
 ### Hello👋, i´m Juan Pablo Menichetti 
 
+
 - 🌱 I’m currently learning React Native
 
 - 📫 How to reach me: jpmenichetti13@gmail.com
+
+
 
 ### Lenguages and Tools
 
@@ -18,9 +21,12 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JuanMeni&theme=onedark&show_icons=true&count_private=true)
 
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanMeni&theme=onedark"/>
 
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanMeni&theme=onedark&layout=compact)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JuanMeni&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
